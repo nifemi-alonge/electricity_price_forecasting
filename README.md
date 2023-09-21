@@ -4,7 +4,9 @@ Coding exercise using machine learning to forecast GB hourly day-ahead electrici
 
 ## Description
 
-I will update this with details of my approach. 
+**Possible approahces:**
+- ARIMA models
+- Regression (linear, XGBoost, Random Forest)
 
 ## Getting Started
 
