@@ -4,19 +4,17 @@ Coding exercise using machine learning to forecast GB hourly day-ahead electrici
 
 ## Description
 
-I will update here with details of my approach. 
+I will update this with details of my approach. 
 
 ## Getting Started
 
 ### Dependencies
 
-* ex. the code was written in a Google Colab Notebook (compatible with Jupyter Notebook).
+* The code was written in a Google Colab Notebook (compatible with Jupyter Notebook).
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Fem Alonge 
+Fem Alonge 
 
 ## License
 
