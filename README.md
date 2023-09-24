@@ -18,6 +18,7 @@ Coding exercise using machine learning to forecast GB hourly day-ahead electrici
 
 ## Files and Scripts
 [`NG_EPF_exercise.ipynb`](NG_EPF_exercise.ipynb) - this script processes the data and runs the models. It also contains the responses to the questions. 
+
 [`predicted_prices_2020_linear_reg.csv`](predicted_prices_2020_linear_reg.csv) - this is the output file. 
 
 ## Authors
