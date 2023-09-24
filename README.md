@@ -12,9 +12,7 @@ Coding exercise using machine learning to forecast GB hourly day-ahead electrici
 **Final approach:**
 - Linear regression
 
-## Getting Started
-
-### Dependencies
+## Dependencies
 
 * The code was written in a Google Colab Notebook (compatible with Jupyter Notebook).
 
