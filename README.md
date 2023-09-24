@@ -17,8 +17,8 @@ Coding exercise using machine learning to forecast GB hourly day-ahead electrici
 * The code was written in a Google Colab Notebook (compatible with Jupyter Notebook).
 
 ## Files and Scripts
-`NG_EPF_exercise.ipynb` - this script processes the data and runs the models. It also contains the responses to the questions. 
-`predicted_prices_2020_linear_reg.csv` - this is the output file. 
+[`NG_EPF_exercise.ipynb`](https://github.com/nifemi-alonge/EPF/blob/9050030c1c43d6e08512162e9ecd64381a083c5b/NG_EPF_exercise.ipynb) - this script processes the data and runs the models. It also contains the responses to the questions. 
+[`predicted_prices_2020_linear_reg.csv`](https://github.com/nifemi-alonge/EPF/blob/9050030c1c43d6e08512162e9ecd64381a083c5b/predicted_prices_2020_linear_reg.csv) - this is the output file. 
 
 ## Authors
 
